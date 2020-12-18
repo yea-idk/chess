@@ -1,4 +1,3 @@
-dofile('app0:/Vita3K.lua')
 function endturn(a)
 	if (a == 'r') then
 		b = 'b'
